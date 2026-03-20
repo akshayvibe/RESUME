@@ -1,2 +1,1 @@
-[View the PDF Document](Akshay_resume  new.pdf)
-
+[View Resume](./Akshay_resume_new.pdf)
